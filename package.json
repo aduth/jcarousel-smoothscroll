@@ -1,0 +1,16 @@
+{
+  "name": "jcarousel-smoothscroll",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animates a jCarousel at a constant pace, regardless of varying item widths",
+  "author": {
+    "name": "Andrew Duthie",
+    "url": "http://www.andrewduthie.com/",
+    "email": "andrew@andrewduthie.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}

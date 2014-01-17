@@ -1,0 +1,8 @@
+{
+  "name": "jcarousel-smoothscroll",
+  "version": "1.0.0",
+  "main": "jquery.jcarousel-smoothscroll.js",
+  "dependencies": {
+    "jcarousel": "*"
+  }
+}
